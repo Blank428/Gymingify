@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Gymingify/static/css/main.e6c13ad2.css",
-    "main.js": "/Gymingify/static/js/main.47185b67.js",
+    "main.js": "/Gymingify/static/js/main.2de8276f.js",
     "static/js/453.752d45c7.chunk.js": "/Gymingify/static/js/453.752d45c7.chunk.js",
     "index.html": "/Gymingify/index.html",
     "main.e6c13ad2.css.map": "/Gymingify/static/css/main.e6c13ad2.css.map",
-    "main.47185b67.js.map": "/Gymingify/static/js/main.47185b67.js.map",
+    "main.2de8276f.js.map": "/Gymingify/static/js/main.2de8276f.js.map",
     "453.752d45c7.chunk.js.map": "/Gymingify/static/js/453.752d45c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.47185b67.js"
+    "static/js/main.2de8276f.js"
   ]
 }
